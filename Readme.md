@@ -1,14 +1,4 @@
-Made a own pcb with si4735 and TTGO esp32.
-## About the original project
-Thiago has made this working, thx!
-Soft from PE0MGB/PU2CLR, mod by RXavier, now on V4.1.
-SW MW LW and FM Radio 
-### Photos
-### "V4.1 firmware"
-![Photo 010]( https://github.com/RSZ-Nld/TTGO/blob/main/010.jpg)
-### “Top Pcb”
-![Photo 1]( https://github.com/Vwbeetle2/TTGO/blob/main/Pcb.JPG)
-### “Diagram”
+Made a own pcb for 8 Digits Led 0.56 Inch Display with MAX7219
 ![Photo 0]( https://github.com/RSZ-Nld/TTGO/blob/main/Diagram.JPG)
 ![Photo 2]( https://github.com/Vwbeetle2/TTGO/blob/main/1.jpg)
 ![Photo 3]( https://github.com/Vwbeetle2/TTGO/blob/main/2.jpg)
