@@ -1,4 +1,4 @@
-Made a own pcb for 8 Digits Led 0.56 Inch Display with MAX7219
+Made a pcb for 8 Digits Led 0.56 Inch Display with MAX7219
 
 Back Pcb
 
