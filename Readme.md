@@ -1,5 +1,8 @@
 A pcb for 8 Digits Led 0.56 Inch  2x 5641AS Display with MAX7219
-can be used with the  Freq-Counter-Led (also on this Github)
+
+can be used with the  
+
+Freq-Counter-Led (also on this Github)
 
 Back Pcb
 
