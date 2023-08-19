@@ -1,4 +1,5 @@
 A pcb for 8 Digits Led 0.56 Inch  2x 5641AS Display with MAX7219
+can be used with the Frequency Counter
 
 Back Pcb
 
